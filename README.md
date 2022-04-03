@@ -3,3 +3,4 @@ Random JSON Files That I used for Random Projects. For minified verison use [pis
 
 ## MISC
 - [Dad Jokes](https://pisaucer.github.io/staticAPI/dadjokes/) - [Minify](https://pisaucer.github.io/staticAPI/dadjokes/min/)
+- [Colors](https://pisaucer.github.io/staticAPI/colors/) - [Minify](https://pisaucer.github.io/staticAPI/colors/min/)
